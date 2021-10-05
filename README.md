@@ -1,1 +1,1 @@
-# altura-bot-pub
+# altura-bot-pubGet Telegram Chat id by:https://api.telegram.org/bot{apikey}/getUpdates
